@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SHIELD AI</string>
+    <string name="app_tagline">निजी एंड्रॉइड सुरक्षा और परफॉरमेंस रक्षक</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="nav_dashboard">शील्ड</string>
+    <string name="nav_scanner">स्कैन</string>
+    <string name="nav_privacy">प्राइवेसी</string>
+    <string name="nav_performance">डायग्नोस्टिक्स</string>
+    <string name="nav_repair">रिपेयर</string>
+    <string name="nav_assistant">एआई रक्षक</string>
+    
+    <!-- Security Status Labels -->
+    <string name="status_secure">सुरक्षित</string>
+    <string name="status_warning">ध्यान देने योग्य</string>
+    <string name="status_danger">गंभीर जोखिम मिले</string>
+    <string name="status_scanning">डिवाइस स्कैन हो रहा है…</string>
+    
+    <!-- Actions -->
+    <string name="action_scan_now">फोन स्कैन करें</string>
+    <string name="action_quick_scan">त्वरित स्कैन</string>
+    <string name="action_deep_scan">गहन सिस्टम ऑडिट</string>
+    <string name="action_file_scan">APK / फाइल स्कैन करें</string>
+    <string name="action_repair_all">समस्याएं देखें और सुधारें</string>
+    <string name="action_open_settings">सेटिंग्स खोलें</string>
+    <string name="action_uninstall">जांचें / अनइंस्टॉल करें</string>
+    <string name="action_clear_history">स्कैन इतिहास हटाएं</string>
+    <string name="action_switch_language">Switch to English</string>
+    
+    <!-- Severity Levels -->
+    <string name="severity_critical">अति गंभीर (Critical)</string>
+    <string name="severity_high">उच्च जोखिम (High)</string>
+    <string name="severity_medium">मध्यम (Medium)</string>
+    <string name="severity_low">सामान्य (Low)</string>
+    <string name="severity_info">सूचनात्मक (Info)</string>
+    
+    <!-- General Disclaimers -->
+    <string name="disclaimer_control">यह डिवाइस आपका है। सभी क्रियाओं पर आपका 100% नियंत्रण है।</string>
+    <string name="disclaimer_no_guarantee">कोई भी स्कैन पूर्ण सुरक्षा की गारंटी नहीं देता। सभी विश्लेषण आपके फोन पर स्थानीय रूप से किए जाते हैं।</string>
+    <string name="disclaimer_privacy">SHIELD AI आपके निजी फोटो, पासवर्ड, संपर्क या संदेशों को कभी अपलोड नहीं करता।</string>
+</resources>

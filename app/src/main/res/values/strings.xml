@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SHIELD AI</string>
+    <string name="app_tagline">Private Android Security &amp; Performance Guardian</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="nav_dashboard">Shield</string>
+    <string name="nav_scanner">Scan</string>
+    <string name="nav_privacy">Privacy</string>
+    <string name="nav_performance">Diagnostics</string>
+    <string name="nav_repair">Repair</string>
+    <string name="nav_assistant">AI Guardian</string>
+    
+    <!-- Security Status Labels -->
+    <string name="status_secure">Protected</string>
+    <string name="status_warning">Attention Needed</string>
+    <string name="status_danger">Critical Risks Found</string>
+    <string name="status_scanning">Scanning Device…</string>
+    
+    <!-- Actions -->
+    <string name="action_scan_now">Scan My Phone</string>
+    <string name="action_quick_scan">Quick Scan</string>
+    <string name="action_deep_scan">Deep System Audit</string>
+    <string name="action_file_scan">Scan APK / File</string>
+    <string name="action_repair_all">Review &amp; Fix Issues</string>
+    <string name="action_open_settings">Open Settings</string>
+    <string name="action_uninstall">Inspect / Uninstall</string>
+    <string name="action_clear_history">Clear Scan History</string>
+    <string name="action_switch_language">Switch to Hindi</string>
+    
+    <!-- Severity Levels -->
+    <string name="severity_critical">Critical</string>
+    <string name="severity_high">High</string>
+    <string name="severity_medium">Medium</string>
+    <string name="severity_low">Low</string>
+    <string name="severity_info">Informational</string>
+    
+    <!-- General Disclaimers -->
+    <string name="disclaimer_control">The device belongs to you. You retain 100% control over all actions.</string>
+    <string name="disclaimer_no_guarantee">No scan guarantees complete security. All analysis is performed locally on your device.</string>
+    <string name="disclaimer_privacy">SHIELD AI does not upload personal data, photos, passwords, contacts, or messages.</string>
+</resources>
